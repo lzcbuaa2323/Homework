@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WATCH_DIR="$HOME/project"          # 改成你要监控的目录
+WATCH_DIR="$HOME/project"          # 要监控的目录
 TAUNT_FILE="$HOME/.hamster_taunts.txt"
 LOG_FILE="$HOME/.cache/hamster.log"
 
